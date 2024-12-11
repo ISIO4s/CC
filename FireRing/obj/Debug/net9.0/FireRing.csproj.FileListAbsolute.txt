@@ -1,0 +1,14 @@
+D:\C#Code\CC\FireRing\bin\Debug\net9.0\FireRing.exe
+D:\C#Code\CC\FireRing\bin\Debug\net9.0\FireRing.deps.json
+D:\C#Code\CC\FireRing\bin\Debug\net9.0\FireRing.runtimeconfig.json
+D:\C#Code\CC\FireRing\bin\Debug\net9.0\FireRing.dll
+D:\C#Code\CC\FireRing\bin\Debug\net9.0\FireRing.pdb
+D:\C#Code\CC\FireRing\obj\Debug\net9.0\FireRing.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Code\CC\FireRing\obj\Debug\net9.0\FireRing.AssemblyInfoInputs.cache
+D:\C#Code\CC\FireRing\obj\Debug\net9.0\FireRing.AssemblyInfo.cs
+D:\C#Code\CC\FireRing\obj\Debug\net9.0\FireRing.csproj.CoreCompileInputs.cache
+D:\C#Code\CC\FireRing\obj\Debug\net9.0\FireRing.dll
+D:\C#Code\CC\FireRing\obj\Debug\net9.0\refint\FireRing.dll
+D:\C#Code\CC\FireRing\obj\Debug\net9.0\FireRing.pdb
+D:\C#Code\CC\FireRing\obj\Debug\net9.0\FireRing.genruntimeconfig.cache
+D:\C#Code\CC\FireRing\obj\Debug\net9.0\ref\FireRing.dll
