@@ -16,5 +16,9 @@ namespace HelloWorld
         string hi = "SayHi";
         return hi;
     }
+    public int add(){
+      int two = 1+1;
+      return two;
+    }
   }
 }
